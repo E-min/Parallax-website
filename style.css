@@ -51,13 +51,13 @@ p {
 } 
 .parallax-background-2 {
     background-image: url("./img/bg1.jpg");
-    opacity: 0.8;
+    opacity: 0.7;
 } 
 .parallax-background-3 {
-    opacity: 0.8;
+    opacity: 0.7;
     background-image: url("./img/bg2.jpg");
 } 
 .parallax-background-4 {
-    opacity: 0.8;
+    opacity: 0.7;
   background-image: url("./img/bg3.jpg");
 } 
